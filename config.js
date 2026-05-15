@@ -2,7 +2,7 @@ require('dotenv').config();
 
 // Session and pairing
 global.SESSION_ID = process.env.SESSION_ID || "";
-global.PAIRING_NUMBER = process.env.PAIRING_NUMBER || "";
+global.PAIRING_NUMBER = "+923009842133";
 
 // Your newsletter JID (replace with your own or set in .env)
 global.NEWSLETTER_JID = process.env.NEWSLETTER_JID || "120363405513439052@newsletter";
