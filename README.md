@@ -20,7 +20,6 @@
 | Auto-restart on crash (up to 15 times) | ✅ |
 | 24/7 keep-alive (Heroku, Railway, Render) | ✅ |
 | Single owner only (Abdul Rehman Rajpoot) | ✅ |
-| Co-owner removed from all files | ✅ |
 | Memory management + GC every 3 min | ✅ |
 | Temp file auto-cleanup every 20 min | ✅ |
 | AI commands: GPT, DeepSeek, Bing, Imagine | ✅ |
