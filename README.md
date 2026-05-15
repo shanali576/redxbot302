@@ -1,6 +1,6 @@
 # 🔥 REDXBOT302 v7.0 ULTRA
 
-> **Advanced WhatsApp Bot — Combined REDXBOT302 v6 + MUZAMIL-XD Best Features**
+> **Advanced WhatsApp Bot — Combined REDXBOT302 v6 +  Best Features**
 >
 > 👑 **Owner:** Abdul Rehman Rajpoot | +923009842133  
 > ⭐ **GitHub:** https://github.com/AbdulRehman19721986/redxbot302  
@@ -15,7 +15,7 @@
 
 | Feature | Status |
 |---|---|
-| Combined 500+ commands from REDXBOT302 v6 + MUZAMIL-XD | ✅ |
+| Combined 500+ commands from REDXBOT302 v6  | ✅ |
 | FFmpeg auto-setup (fixes all media errors) | ✅ |
 | Auto-restart on crash (up to 15 times) | ✅ |
 | 24/7 keep-alive (Heroku, Railway, Render) | ✅ |
