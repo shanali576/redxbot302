@@ -1,7 +1,7 @@
 {
   "name": "redxbot302-v7-ultra",
   "version": "7.0.0",
-  "description": "REDXBOT302 v7.0 ULTRA – Advanced WhatsApp Bot by Abdul Rehman Rajpoot",
+  "description": "REDXBOT302 v7.0 ULTRA \u2013 Advanced WhatsApp Bot by Abdul Rehman Rajpoot",
   "main": "index.js",
   "author": "Abdul Rehman Rajpoot",
   "license": "MIT",
@@ -30,7 +30,7 @@
     "@mrnima/facebook-downloader": "^1.0.0",
     "@mrnima/tiktok-downloader": "^1.0.0",
     "@vitalets/google-translate-api": "^9.2.1",
-    "@whiskeysockets/baileys": "7.0.0-rc10",
+    "@whiskeysockets/baileys": "github:WhiskeySockets/Baileys#master",
     "acrcloud": "^1.4.0",
     "adm-zip": "^0.5.16",
     "api-dylux": "1.8.5",
