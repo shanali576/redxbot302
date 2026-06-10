@@ -34,7 +34,7 @@
     "@mrnima/facebook-downloader": "latest",
     "@mrnima/tiktok-downloader": "latest",
     "@vitalets/google-translate-api": "latest",
-    "@whiskeysockets/baileys": "v7.0.0-rc.9",
+    "@whiskeysockets/baileys": "v7.0.0-rc13",
     "acrcloud": "latest",
     "adm-zip": "latest",
     "api-dylux": "latest",
