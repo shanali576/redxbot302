@@ -4,7 +4,7 @@
   "description": "Advanced WhatsApp Bot By Abdul Rehman Rajpoot | REDXBOT302",
   "main": "index.js",
   "engines": {
-    "node": ">=24.x",
+    "node": ">=26.x",
     "npm": ">=10.x"
   },
   "scripts": {
@@ -44,7 +44,7 @@
     "better-sqlite3": "npm:libsql@0.5.12",
     "btch-downloader": "latest",
     "buffer": "latest",
-    "chalk": "latest",
+    "chalk": "^4.1.2",
     "cheerio": "latest",
     "crypto-digest-sync": "latest",
     "crypto-js": "latest",
