@@ -53,7 +53,7 @@
     "express": "latest",
     "ffmpeg": "latest",
     "ffmpeg-static": "latest",
-    "file-type": "latest",
+    "file-type": "16.5.4",
     "file_size_url": "latest",
     "fluent-ffmpeg": "latest",
     "form-data": "latest",
