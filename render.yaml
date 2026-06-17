@@ -1,0 +1,27 @@
+services:
+  - type: web
+    name: redxbot302
+    runtime: docker
+    dockerfilePath: Dockerfile
+    envVars:
+      - key: SESSION_ID
+        value: ""
+      - key: OWNER_NUMBER
+        value: "923000000000"
+      - key: BOT_NAME
+        value: "REDXBOT302"
+      - key: COMMAND_MODE
+        value: "public"
+      - key: TIMEZONE
+        value: "Asia/Karachi"
+      - key: PORT
+        value: "3000"
+      - key: MONGO_URL
+        value: ""
+      - key: POSTGRES_URL
+        value: ""
+      - key: MYSQL_URL
+        value: ""
+      - key: DB_URL
+        value: ""
+      # RENDER_EXTERNAL_URL is auto-injected by Render — used for keep-alive ping
